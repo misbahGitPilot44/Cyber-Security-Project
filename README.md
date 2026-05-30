@@ -179,7 +179,6 @@ Possible future extensions of this work include:
 ```text
 ├── Poster Presentation
 ├── Project Report
-├── Architecture Diagrams
 └── README.md
 ```
 
