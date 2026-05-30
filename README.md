@@ -195,13 +195,13 @@ Possible future extensions of this work include:
 
 ## Individual Contributions
 
-### Farhan Akhlaq
+### Farhan Akhlaq - Smart meter communication system (overview) and system architecture. Main poster designer.
 
-### Karthik Baurai
+### Karthik Baurai - Counter measures against attacks and Conclusion.
 
-### Misbah Ul Islam
+### Misbah Ul Islam - Communication Technologies and Security Concerns in Smart meters communication system. Case Study lead in poster. 
 
-### Mukund Prasad
+### Mukund Prasad - Cyber-attacks in smart meter communication. Poster refinement.
 
 ---
 
